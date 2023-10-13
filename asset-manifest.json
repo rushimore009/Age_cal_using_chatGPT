@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Age_cal_using_chatGPT/static/css/main.c889114c.css",
+    "main.js": "/Age_cal_using_chatGPT/static/js/main.4e9b1be8.js",
+    "static/js/787.1d8d0b2d.chunk.js": "/Age_cal_using_chatGPT/static/js/787.1d8d0b2d.chunk.js",
+    "index.html": "/Age_cal_using_chatGPT/index.html",
+    "main.c889114c.css.map": "/Age_cal_using_chatGPT/static/css/main.c889114c.css.map",
+    "main.4e9b1be8.js.map": "/Age_cal_using_chatGPT/static/js/main.4e9b1be8.js.map",
+    "787.1d8d0b2d.chunk.js.map": "/Age_cal_using_chatGPT/static/js/787.1d8d0b2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c889114c.css",
+    "static/js/main.4e9b1be8.js"
+  ]
+}
